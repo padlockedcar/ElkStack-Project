@@ -3,7 +3,7 @@ Deployed ELK Stack
 
 The network indicated below was created using the files available in this repository.
 
-<img width="813" alt="ElkStackDiagram" src="https://user-images.githubusercontent.com/81398383/139724075-464c4721-c7a7-46f0-86be-e832abf7bfc6.png"> 
+<img width="813" alt="ElkStackDiagram" src=“https://github.com/padlockedcar/ElkStack-Project/blob/main/Screenshots/RT%20VN2022.png”> 
 
 
 #### This document contains the following details:
