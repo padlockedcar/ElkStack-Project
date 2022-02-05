@@ -3,7 +3,7 @@ Deployed ELK Stack
 
 The network indicated below was created using the files available in this repository.
 
-<img width=“599” alt=“RT VN2022” src=“https://user-images.githubusercontent.com/79482337/152629440-9dec6398-c1ec-4fb9-87dc-093c5f21a1cc.png”>
+<img width=“599” alt=“RT_VN2022” src=“https://user-images.githubusercontent.com/79482337/152629440-9dec6398-c1ec-4fb9-87dc-093c5f21a1cc.png”>
 
 
 #### This document contains the following details:
